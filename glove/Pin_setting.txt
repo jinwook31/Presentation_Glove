@@ -1,6 +1,6 @@
-laser11
-laser버튼6
-back버튼7
-mouse버튼(겸lcd)4
-lcd - 디지털 2,3
+laser 11
+laser_button 6
+back_button 7
+mouse_button(+lcd)4
+lcd - D2,3
 
